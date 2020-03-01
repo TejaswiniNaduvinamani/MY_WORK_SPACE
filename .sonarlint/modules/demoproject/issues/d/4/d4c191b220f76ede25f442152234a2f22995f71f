@@ -1,0 +1,44 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(õõá8Ÿ²œĞ,H®RMAJORZ
+CODE_SMELL
+tsquid:S2133";Remove this object instantiation and use "B.class" instead.(œóÿÿÿÿÿ8Ÿ²œĞ,H¯RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¦”Íã8›¾’œĞ,H°RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(§äº‡ÿÿÿÿÿ8Ÿ²œĞ,H±RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(İûíŒıÿÿÿÿ8Ÿ²œĞ,H²RMAJORZ
+CODE_SMELL
+tsquid:S2133";Remove this object instantiation and use "A.class" instead.(§äº‡ÿÿÿÿÿ8Òô–œĞ,H³RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(—‹ä“úÿÿÿÿ8éºœĞ,H´RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(œóÿÿÿÿÿ8Ÿ²œĞ,HµRMAJORZ
+CODE_SMELL
+tsquid:S2133";Remove this object instantiation and use "B.class" instead.(İûíŒıÿÿÿÿ8ÿÚ·œĞ,H¶RMAJORZ
+CODE_SMELL
+tsquid:S2133";Remove this object instantiation and use "C.class" instead.(÷Ç…«ÿÿÿÿÿ8Ÿ²œĞ,H·RMAJORZ
+CODE_SMELL
+tsquid:S2133";Remove this object instantiation and use "C.class" instead.(¨¼²êÿÿÿÿÿ8°ÊµœĞ,H¸RMAJORZ
+CODE_SMELL
+osquid:S2133";Remove this object instantiation and use "C.class" instead.(¦”Íã8éºœĞ,H¹RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨¼²êÿÿÿÿÿ8°ÊµœĞ,HºRMAJORZ
+CODE_SMELL
+osquid:S2133";Remove this object instantiation and use "A.class" instead.(õõá8Ÿ²œĞ,H»RMAJORZ
+CODE_SMELL
+tsquid:S2133";Remove this object instantiation and use "B.class" instead.(—‹ä“úÿÿÿÿ8Ÿ²œĞ,H¼RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(÷Ç…«ÿÿÿÿÿ8Ÿ²œĞ,H½RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(»àİÜûÿÿÿÿ8Ÿ²œĞ,H¾RMAJORZ
+CODE_SMELL

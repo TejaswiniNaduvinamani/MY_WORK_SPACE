@@ -1,0 +1,26 @@
+
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8¼ñæü€.HÌ9RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ±™Œ8„ˆ—ƒ.HÍ9RMAJORZ
+CODE_SMELL
+^squid:S00108
+")Either remove or fill this block of code.(”ý¾8¼ñæü€.HÎ9RMAJORZ
+CODE_SMELL
+rsquid:S3518"CMake sure this expression can't be zero before doing this division.(›º<8„ˆ—ƒ.HÏ9RCRITICALZBUG
+Ysquid:S1481"&Remove this unused "i" local variable.(›º<8„ˆ—ƒ.HÐ9RMINORZ
+CODE_SMELL
+hsquid:S1854"5Remove this useless assignment to local variable "i".(›º<8„ˆ—ƒ.HÑ9RMAJORZ
+CODE_SMELL
+Ysquid:S1481"&Remove this unused "i" local variable.(›º<8ý“›ƒ.HÒ9RMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(±å™8ý“›ƒ.HÓ9RMAJORZ
+CODE_SMELL
+rsquid:S3518"CMake sure this expression can't be zero before doing this division.(›º<8ý“›ƒ.HÔ9RCRITICALZBUG
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§ÔÜÿ8„ˆ—ƒ.HÕ9RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8¼ñæü€.HÖ9RMAJORZ
+CODE_SMELL
+dsquid:S1172"+Remove this unused method parameter "demo".(Ì£‚×ýÿÿÿÿ8„ˆ—ƒ.H×9RMAJORZ
+CODE_SMELL
+hsquid:S1854"5Remove this useless assignment to local variable "i".(›º<8ý“›ƒ.HØ9RMAJORZ
+CODE_SMELL

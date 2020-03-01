@@ -1,0 +1,19 @@
+
+Usquid:S2131"Use "Long.toString" instead.(¿Î€ºøÿÿÿÿ8ˆÕ»çà-H»,RMAJORZ
+CODE_SMELL
+q
+squid:S106,"9Replace this use of System.out or System.err by a logger.( ƒ¯²þÿÿÿÿ8†‹«çà-H¼,RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(³úˆ…8ÉÖðçà-H½,RMAJORZ
+CODE_SMELL
+l
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ÐÓ”å8•Ì¾çà-H¾,RMAJORZ
+CODE_SMELL
+esquid:S1602%",Remove useless curly braces around statement(ÔØìúÿÿÿÿ8†‹«çà-H¿,RMINORZ
+CODE_SMELL
+k
+squid:S1062"9Replace this use of System.out or System.err by a logger.(½„ÖY8óï­çà-HÀ,RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(Õ¼ªm8Üù‘çà-HÁ,RMAJORZ
+CODE_SMELL

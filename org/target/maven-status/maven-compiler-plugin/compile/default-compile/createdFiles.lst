@@ -1,0 +1,9 @@
+com\hibernate\model\CartDTO.class
+com\hibernate\model\TransactionDTO.class
+com\hibernate\model\CustomerDTO.class
+com\hibernate\main\HibernateManyToManyMain.class
+com\hibernate\model\ItemShopDTO.class
+com\hibernate\model\ItemDTO.class
+com\hibernate\main\HibernateOneToManyMain.class
+com\hibernate\model\CartShopDTO.class
+com\hibernate\main\HibernateMainClass.class

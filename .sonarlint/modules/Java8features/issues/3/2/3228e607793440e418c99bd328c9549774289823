@@ -1,0 +1,30 @@
+
+l
+squid:S106S"9Replace this use of System.out or System.err by a logger.(ê«©€8»Ÿžþñ-Hß6RMAJORZ
+CODE_SMELL
+q
+squid:S106["9Replace this use of System.out or System.err by a logger.(¸ÚÄÀûÿÿÿÿ8Œó’Žò-HÛ6RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8—Î¦üñ-HÝ6RMAJORZ
+CODE_SMELL
+csquid:S1611]"/Remove the parentheses around the "i" parameter(ÛîÑ“8¦ôªþñ-Há6RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(±œˆßùÿÿÿÿ8—Î¦üñ-Hà6RMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òë¥»þÿÿÿÿHÕ6RMINORZ
+CODE_SMELL
+l
+squid:S106^"9Replace this use of System.out or System.err by a logger.(“¬Åç8éóšŽò-HÞ6RMAJORZ
+CODE_SMELL
+l
+squid:S106W"9Replace this use of System.out or System.err by a logger.(ãŒÂ8òèµüñ-HØ6RMAJORZ
+CODE_SMELL
+~squid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8òèµüñ-HÙ6RMINORZ
+CODE_SMELL
+hsquid:S1611U"/Remove the parentheses around the "i" parameter(¼ÐÉðùÿÿÿÿ8éóšŽò-HÖ6RMINORZ
+CODE_SMELL
+Esquid:S2097,"Add a type test to this method.(ÜÑãHÚ6RMINORZBUG
+q
+squid:S106U"9Replace this use of System.out or System.err by a logger.(¼ÐÉðùÿÿÿÿ8¦ôªþñ-H×6RMAJORZ
+CODE_SMELL
+gsquid:S2259-"AA "NullPointerException" could be thrown; "obj" is nullable here.(œÝã¬HÜ6RMAJORZBUG

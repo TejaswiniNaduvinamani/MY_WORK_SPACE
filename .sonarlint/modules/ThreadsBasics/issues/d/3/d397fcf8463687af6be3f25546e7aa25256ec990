@@ -1,0 +1,40 @@
+
+l
+squid:S106\"9Replace this use of System.out or System.err by a logger.(°—¢8ÊËªöÃ-Hõ7RMAJORZ
+CODE_SMELL
+k
+squid:S1069"9Replace this use of System.out or System.err by a logger.(âËÂD8£ÖõõÃ-Hö7RMAJORZ
+CODE_SMELL
+l
+squid:S106@"9Replace this use of System.out or System.err by a logger.(¿ğ ‹8£ÖõõÃ-H÷7RMAJORZ
+CODE_SMELL
+squid:S1192*"YDefine a constant instead of duplicating this literal "Locks held by task name " 3 times.(Ê¬·'8£ÖõõÃ-Hø7RCRITICALZ
+CODE_SMELL
+ssquid:S21424"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8æÄàõÃ-Hù7RMAJORZBUG
+_squid:S1148-"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8æÄàõÃ-Hú7RMINORZVULNERABILITY
+q
+squid:S106%"9Replace this use of System.out or System.err by a logger.(×ğ¦áøÿÿÿÿ8æÄàõÃ-Hû7RMAJORZ
+CODE_SMELL
+ssquid:S2142,"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8æÄàõÃ-Hü7RMAJORZBUG
+k
+squid:S1060"9Replace this use of System.out or System.err by a logger.(âËÂD8æÄàõÃ-Hı7RMAJORZ
+CODE_SMELL
+k
+squid:S1067"9Replace this use of System.out or System.err by a logger.(Ê¬·'8£ÖõõÃ-Hş7RMAJORZ
+CODE_SMELL
+k
+squid:S106<"9Replace this use of System.out or System.err by a logger.(Ê¬·'8£ÖõõÃ-Hÿ7RMAJORZ
+CODE_SMELL
+nsquid:S1141""5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8æÄàõÃ-H€8RMAJORZ
+CODE_SMELL
+_squid:S11485"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ğæáõÃ-H8RMINORZVULNERABILITY
+‰squid:S1192"MDefine a constant instead of duplicating this literal "task name - " 4 times.(×ğ¦áøÿÿÿÿ8£ÖõõÃ-H‚8RCRITICALZ
+CODE_SMELL
+ssquid:S2142C"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ë…ãõÃ-Hƒ8RMAJORZBUG
+_squid:S1148D"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ë…ãõÃ-H„8RMINORZVULNERABILITY
+k
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Ê¬·'8æÄàõÃ-H…8RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(×ğ¦áøÿÿÿÿ8æÄàõÃ-H†8RMAJORZ
+CODE_SMELL

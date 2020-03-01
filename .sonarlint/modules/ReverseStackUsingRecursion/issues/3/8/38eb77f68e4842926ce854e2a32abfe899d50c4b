@@ -1,0 +1,10 @@
+
+lsquid:S1197"8Move the array designator from the variable to the type.(ˆóÞÔ8Ÿ½¦­ï-Hî1RMINORZ
+CODE_SMELL
+Šsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(–ÃÑÉúÿÿÿÿ8Ÿ½¦­ï-Hï1RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(–ÃÑÉúÿÿÿÿ8Ÿ½¦­ï-Hð1RMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.Hñ1RMINORZ
+CODE_SMELL

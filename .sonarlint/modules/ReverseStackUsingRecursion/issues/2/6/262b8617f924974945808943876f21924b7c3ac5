@@ -1,0 +1,17 @@
+
+ˆsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À¤Ñàüÿÿÿÿ8õ®İò¤-H—RMINORZ
+CODE_SMELL
+‰squid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ñ¦»²üÿÿÿÿ8ÒÆúò¤-H™RMAJORZ
+CODE_SMELL
+‰squid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(øš…»ıÿÿÿÿ8õ®İò¤-HšRMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.H–RMINORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(ÎÍµúÿÿÿÿ8õ®İò¤-H•RMINORZ
+CODE_SMELL
+l
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Ôİ¼ğ8õ®İò¤-H˜RMAJORZ
+CODE_SMELL
+q
+squid:S106""9Replace this use of System.out or System.err by a logger.(óƒ™úÿÿÿÿ8µë¨ÁÅ-HRMAJORZ
+CODE_SMELL

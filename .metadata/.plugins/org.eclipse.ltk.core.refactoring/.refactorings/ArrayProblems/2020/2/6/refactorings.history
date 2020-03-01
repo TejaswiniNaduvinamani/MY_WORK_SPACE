@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static void findSubArraySum(Integer arrSize, Integer sum, Integer [] arr)&apos; from &apos;SubArraySum.main()&apos; to &apos;SubArraySum&apos;&#x0D;&#x0A;- Original project: &apos;ArrayProblems&apos;&#x0D;&#x0A;- Method name: &apos;findSubArraySum&apos;&#x0D;&#x0A;- Destination type: &apos;SubArraySum&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;findSubArraySum&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;{SubArraySum.java" name="findSubArraySum" replace="false" selection="370 388" stamp="1581174559229" version="1.0" visibility="2"/>
+</session>

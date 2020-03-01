@@ -1,0 +1,27 @@
+
+isquid:S1854"5Remove this useless assignment to local variable "n".(ÔÎ•Û8§€µ²µ-H–&RMAJORZ
+CODE_SMELL
+q
+squid:S106("9Replace this use of System.out or System.err by a logger.(‚â˜•øÿÿÿÿ8µÑÄÌÂ-H—&RMAJORZ
+CODE_SMELL
+Zsquid:S1481"&Remove this unused "n" local variable.(ÔÎ•Û8§€µ²µ-H˜&RMINORZ
+CODE_SMELL
+q
+squid:S106$"9Replace this use of System.out or System.err by a logger.(¹Öœ™ýÿÿÿÿ8Êý‚ÌÂ-H™&RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¸Æî8§€µ²µ-Hš&RMAJORZ
+CODE_SMELL
+asquid:S2157"%Add a "clone()" method to this class.(œ¤„÷ÿÿÿÿÿ8Ó•½ËÂ-H›&RCRITICALZ
+CODE_SMELL
+„squid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(ìÑ §þÿÿÿÿ8Ö‚ÌÂ-Hœ&RMAJORZ
+CODE_SMELL
+Ð%squid:RedundantThrowsDeclarationCheck"}Remove the declaration of thrown exception 'java.lang.CloneNotSupportedException', as it cannot be thrown from method's body.(ó¯í›úÿÿÿÿ8Ö‚ÌÂ-H&RMINORZ
+CODE_SMELL
+q
+squid:S106%"9Replace this use of System.out or System.err by a logger.(ç——ûÿÿÿÿ8ÑÌÌÂ-Hž&RMAJORZ
+CODE_SMELL
+l
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ô¡‹è8§€µ²µ-HŸ&RMAJORZ
+CODE_SMELL

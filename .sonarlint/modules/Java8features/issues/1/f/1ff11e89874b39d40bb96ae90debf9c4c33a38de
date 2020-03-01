@@ -1,0 +1,43 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(™¤ó8ûø½ŸŞ-H÷1RMAJORZ
+CODE_SMELL
+l
+squid:S106+"9Replace this use of System.out or System.err by a logger.(¬×õ±8ï·ŸŞ-Hø1RMAJORZ
+CODE_SMELL
+q
+squid:S106."9Replace this use of System.out or System.err by a logger.(¼üëüÿÿÿÿ8æ½áº¼-Hù1RMAJORZ
+CODE_SMELL
+hsquid:S1611"/Remove the parentheses around the "i" parameter(îÆ¿Ëùÿÿÿÿ8¸èøÁ¼-Hú1RMINORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òë¥»şÿÿÿÿHû1RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(µëšÀÿÿÿÿÿ8ª´ÉŸŞ-Hü1RMAJORZ
+CODE_SMELL
+l
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ÎÎ®•8‚ŞÍŸŞ-Hı1RMAJORZ
+CODE_SMELL
+\squid:S1604"(Make this anonymous inner class a lambda(Ô é¥8Æìº¼-Hş1RMAJORZ
+CODE_SMELL
+l
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ŞĞğí8¯ËÂŸŞ-Hÿ1RMAJORZ
+CODE_SMELL
+q
+squid:S1066"9Replace this use of System.out or System.err by a logger.(‹Š´¢øÿÿÿÿ8ñ×ÆŸŞ-H€2RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(îÆ¿Ëùÿÿÿÿ8Ê‚–ŸŞ-H2RMAJORZ
+CODE_SMELL
+l
+squid:S1061"9Replace this use of System.out or System.err by a logger.(÷ÁÊ¥8ñ×ÆŸŞ-H‚2RMAJORZ
+CODE_SMELL
+q
+squid:S106-"9Replace this use of System.out or System.err by a logger.(òÔ™©ûÿÿÿÿ8ï·ŸŞ-Hƒ2RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÑÂ¸ó8ñ×ÆŸŞ-H„2RMAJORZ
+CODE_SMELL
+q
+squid:S1062"9Replace this use of System.out or System.err by a logger.(İî«‰øÿÿÿÿ8Æìº¼-H…2RMAJORZ
+CODE_SMELL

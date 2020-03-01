@@ -1,0 +1,13 @@
+
+public class StringSplit {
+
+	
+	public static void main (String[] args){
+		String ex = "a,i";
+		
+		String[] tokens= ex.split(",");
+		
+		System.out.println(tokens.length);
+		
+	}
+}

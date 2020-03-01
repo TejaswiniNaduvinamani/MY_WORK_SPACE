@@ -1,0 +1,17 @@
+
+qsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8£¼‰éÒ,H¹RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(êÈè8£¼‰éÒ,HºRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Òõ¢Ã8£¼‰éÒ,H»RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Òõ¢Ã8£¼‰éÒ,H¼RMAJORZ
+CODE_SMELL
+nsquid:S2209"5Change this instance-reference to a static reference.(Òòùûÿÿÿÿ8£¼‰éÒ,H½RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(êÈè8£¼‰éÒ,H¾RMAJORZ
+CODE_SMELL

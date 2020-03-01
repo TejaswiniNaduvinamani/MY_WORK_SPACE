@@ -1,0 +1,27 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+b
+2src/main/java/com/hibernate/model/ItemShopDTO.java,1\b\1b3a8c26496358250ba3445d49f3f93c6454bef4
+b
+2src/main/java/com/hibernate/model/CartShopDTO.java,1\6\1658f9f88d22946466f835a0162fcd9331dbf862
+^
+.src/main/java/com/hibernate/model/ItemDTO.java,8\5\855b214a75a99778fa2686b350601971d75f100d
+T
+$src/main/resources/hibernate.cfg.xml,3\1\3176feae82bf4ff4f68f72c9d6d3b850a3110c22
+^
+.src/main/java/com/hibernate/model/CartDTO.java,f\4\f440433a9b16227851882d40a84ca5952f0a8c79
+l
+<src/main/java/com/hibernate/main/HibernateOneToManyMain.java,d\1\d1003397287d8aef0b0f276ffeb4ada55f42f567
+m
+=src/main/java/com/hibernate/main/HibernateManyToManyMain.java,7\7\774aae9c9fcacde95d41fb75cefef607e711eeec
+e
+5src/main/java/com/hibernate/model/TransactionDTO.java,f\3\f344bf91e7ae9f1da42e6acebbdf746dd5ca3f4c
+h
+8src/main/java/com/hibernate/main/HibernateMainClass.java,6\7\67b6a9d4f52c5b93de6eb74829d2c0dfe35502f1
+b
+2src/main/java/com/hibernate/model/CustomerDTO.java,c\e\ce0aa7ec2e76e416c12743ad3a7a800bb0b7f1ae
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+I
+src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded

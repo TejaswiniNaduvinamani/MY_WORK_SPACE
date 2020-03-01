@@ -1,0 +1,19 @@
+
+ssquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÃˆÃçá-H‡;RMAJORZBUG
+„squid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(…åôˆþÿÿÿÿ8Ú¦æçá-Hˆ;RMAJORZ
+CODE_SMELL
+¢"squid:ClassVariableVisibilityCheck	"TMake threadId a static final constant or non-public and provide accessors if needed.(Ì‹ñá8“Æûçá-H‰;RMINORZVULNERABILITY
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÁïÂúûÿÿÿÿ8¶Ÿ½æá-HŠ;RMAJORZ
+CODE_SMELL
+¥"squid:ClassVariableVisibilityCheck"RMake nextId a static final constant or non-public and provide accessors if needed.(ªÈð™ùÿÿÿÿ8“Æûçá-H‹;RMINORZVULNERABILITY
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ÃˆÃçá-HŒ;RMINORZVULNERABILITY
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(­‚ó§8÷ªÅçá-H;RMAJORZ
+CODE_SMELL
+zsquid:S4065	"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(Ì‹ñá8“Æûçá-HŽ;RMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(©Ê;8Ãñóçá-H;RMAJORZ
+CODE_SMELL
+jsquid:S1135"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ8ÃˆÃçá-H;RINFOZ
+CODE_SMELL

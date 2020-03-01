@@ -1,0 +1,21 @@
+
+ssquid:S1161":Add the "@Override" annotation above this method signature(ÿŸ¾Ðüÿÿÿÿ8Üºƒ´µ-HñRMAJORZ
+CODE_SMELL
+tsquid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8¸Ö…Ù¶-HìRMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ê¯î£8Üºƒ´µ-HíRMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(¹×ú18²‘ÎÙ¶-HðRMAJORZ
+CODE_SMELL
+q
+squid:S106."9Replace this use of System.out or System.err by a logger.(Ö„Î³ÿÿÿÿÿ8¸Ö…Ù¶-HóRMAJORZ
+CODE_SMELL
+l
+squid:S106:"9Replace this use of System.out or System.err by a logger.(ê¯î£8ÙëõÙ¶-HïRMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(¹×ú18ÙëõÙ¶-HîRMAJORZ
+CODE_SMELL
+l
+squid:S106#"9Replace this use of System.out or System.err by a logger.(úË°8Üºƒ´µ-HòRMAJORZ
+CODE_SMELL

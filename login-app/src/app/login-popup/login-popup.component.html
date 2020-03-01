@@ -1,0 +1,42 @@
+
+<div class="app-label"> Angular 
+    <div *ngIf="!loginSuccess" style="    margin-top: -45px;
+    margin-right: 110px;"> 
+      <button type="button" class="btn btn-primary" (click)="login=true" style="float: right;color: dodgerblue;
+      border: none;"><b style="color: white;" >login</b></button></div>
+ </div>
+
+ <ng-container *ngIf="login && !loginSuccess">
+   <div style="border: 1px solid;
+   margin-left: 700px;
+   margin-top: 200px;
+   width: 26%;">
+   <div *ngIf = "errFlag" style="margin-left: 40px;    padding-top: 24px; 
+   color: red;">
+     {{errorMsg}}
+   </div>
+   <div style="margin-left: 40px;    padding-top: 24px;">
+   <label style="padding-right: 26px; "> <b>User Name:</b> </label>
+  <input type="text" #user >
+   </div>
+   <div style="margin-left: 40px;    padding-top: 24px;">
+      <label style="padding-right: 26px;"> <b>Password:</b> </label>
+      <input style="margin-left: 12px" type="password" #pwd >
+   </div>
+
+   <div>
+      <button type="button" class="btn btn-primary" style="color: dodgerblue;margin-left: 206px;
+      margin-top: 11px;
+      margin-bottom: 10px;" (click)="onLogin(user.value, pwd.value);">
+        <b style="color: white;" >login</b></button>
+   </div>
+  </div>
+ </ng-container>
+
+
+<div *ngIf="loginSuccess">
+<app-login-sucess [user]="user"></app-login-sucess>
+</div>
+
+ <!-- <router-outlet><router-outlet> -->
+

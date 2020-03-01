@@ -1,0 +1,20 @@
+
+Gsquid:S1220""Move this file to a named package.HRMINORZ
+CODE_SMELL
+qsquid:S11977"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8íÛØó¤-H“RMINORZ
+CODE_SMELL
+lsquid:S1197"8Move the array designator from the variable to the type.(­‹©û8íÛØó¤-H’RMINORZ
+CODE_SMELL
+[squid:S1659""Declare "top2" on a separate line.(òÂäúÿÿÿÿ8íÛØó¤-H‘RMINORZ
+CODE_SMELL
+squid:S3973?"XUse curly braces or indentation to denote the code conditionally executed by this "for".(«Å‘8é¨×õ¤-H•RCRITICALZ
+CODE_SMELL
+q
+squid:S106@"9Replace this use of System.out or System.err by a logger.(¯†àëÿÿÿÿÿ8¤±Ğõ¤-H”RMAJORZ
+CODE_SMELL
+q
+squid:S106B"9Replace this use of System.out or System.err by a logger.(€ÊŒ—øÿÿÿÿ8°Œşõ¤-H™RMAJORZ
+CODE_SMELL
+q
+squid:S106C"9Replace this use of System.out or System.err by a logger.(º–‘¥øÿÿÿÿ8°Œşõ¤-HšRMAJORZ
+CODE_SMELL

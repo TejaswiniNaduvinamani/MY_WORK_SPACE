@@ -1,0 +1,47 @@
+.space {
+    margin-top: -20px;
+  }
+
+.border-align {
+    border-bottom: 1pt solid #212121;
+    border-top: 1pt solid #212121;
+    border-left: 1pt solid #212121;
+    border-right: 1pt solid #212121;
+}
+
+.background {
+    background-color: blue;
+}
+
+.margin-space {
+    margin-left: -8px;
+    margin-right: -8px;
+
+}
+.center-align {
+    text-align: center;
+}
+
+.left-align {
+    text-align: left;
+    color: black;
+}
+
+.rotate-45 {
+    -ms-transform:rotate(45deg);     
+    -webkit-transform:rotate(45deg); 
+    transform:rotate(45deg); 
+}
+
+.my-custom-class .tooltip-inner {
+    background-color: rgba(234,220,222,230);
+    font-size: 125%;
+    width: 100%;
+  }
+  /* .my-custom-class .arrow::before {
+    border-top-color: darkgreen;
+  } */
+
+  .change-text-color {
+      color: white;
+  }

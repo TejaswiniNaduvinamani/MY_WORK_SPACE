@@ -1,0 +1,35 @@
+package com.org.syncronize;
+
+public class ThreadVolatilr extends Thread{
+
+	boolean flag = false; 
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		while(!flag)
+		{
+			try {
+				Thread.sleep(1000);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			flag=true;
+			System.out.println("CUrrent Thread :"+Thread.currentThread().getId()+" In");
+		}
+		
+		System.out.println("CUrrent Thread :"+Thread.currentThread().getId()+" Out");
+		
+	}
+	
+	
+	public static void main(String args[]){
+		ThreadVolatilr t1= new  ThreadVolatilr();
+		ThreadVolatilr t2= new  ThreadVolatilr();
+		t1.start();
+		t2.start();
+	}
+	
+
+
+}

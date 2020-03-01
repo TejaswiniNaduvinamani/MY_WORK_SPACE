@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.org.syncronize.SynchronizedNonStaticMethod&apos; to &apos;SynchronizedNonStaticAndStaticMethod&apos;&#x0D;&#x0A;- Original project: &apos;ThreadsBasics&apos;&#x0D;&#x0A;- Original element: &apos;com.org.syncronize.SynchronizedNonStaticMethod&apos;&#x0D;&#x0A;- Renamed element: &apos;com.org.syncronize.SynchronizedNonStaticAndStaticMethod&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SynchronizedNonStaticMethod&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.org.syncronize{SynchronizedNonStaticMethod.java[SynchronizedNonStaticMethod" matchStrategy="1" name="SynchronizedNonStaticAndStaticMethod" qualified="false" references="true" similarDeclarations="false" stamp="1562435666973" textual="false" version="1.0"/>
+</session>

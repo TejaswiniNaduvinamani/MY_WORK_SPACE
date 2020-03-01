@@ -1,0 +1,27 @@
+package com.org.stack.demo;
+
+import java.util.Stack;
+
+public class CustomStack extends Stack {
+	
+	Stack st;
+	
+	CustomStack(Stack st){
+		this.st = st;
+	}
+	
+	@Override
+	public Integer pop(){
+		int temp = 0;
+		Stack st1 = new Stack();
+		st1= st;
+		
+		for(int i=0; i< st1.size(); i++){
+			if((Integer)st1.pop() >temp){
+				temp = (Integer)st1.pop();
+			}
+		}
+		return temp;	
+	}
+
+}

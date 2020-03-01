@@ -1,0 +1,22 @@
+
+€"squid:ObjectFinalizeOverridenCheck"-Do not override the Object.finalize() method.(ײׂ˜Ùשÿÿÿÿ8­ס¢ני-Hּ1RCRITICALZ
+CODE_SMELL
+[squid:S1481"(Remove this unused "obj" local variable.(üץ^8­ס¢ני-Hֽ1RMINORZ
+CODE_SMELL
+nsquid:S1854"5Remove this useless assignment to local variable "i".(Úָ‡ÿÿÿÿÿ8­ס¢ני-H־1RMAJORZ
+CODE_SMELL
+xsquid:S3518"CMake sure this expression can't be zero before doing this division.(Úָ‡ÿÿÿÿÿ8­ס¢ני-Hֿ1RCRITICALZBUG
+‹squid:S1215	"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(ּ°¬“8­ס¢ני-H׀1RCRITICALZ
+CODE_SMELL
+psquid:S1854"7Remove this useless assignment to local variable "obj".(׀Ùײּûÿÿÿÿ8­ס¢ני-Hׁ1RMAJORZ
+CODE_SMELL
+_squid:S1481"&Remove this unused "i" local variable.(Úָ‡ÿÿÿÿÿ8­ס¢ני-Hׂ1RMINORZ
+CODE_SMELL
+jsquid:S1854"7Remove this useless assignment to local variable "obj".(üץ^8­ס¢ני-H׃1RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(·ÿט8­ס¢ני-Hװ1RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‏ֲÝ‏ÿÿÿÿ8­ס¢ני-Hױ1RMAJORZ
+CODE_SMELL

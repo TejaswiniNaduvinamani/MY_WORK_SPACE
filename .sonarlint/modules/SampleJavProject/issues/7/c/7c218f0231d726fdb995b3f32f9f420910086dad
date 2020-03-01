@@ -1,0 +1,12 @@
+
+Xsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿHž"RMINORZVULNERABILITY
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ý¨ù—úÿÿÿÿHŸ"RMAJORZ
+CODE_SMELL
+lsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€H "RMAJORZBUG
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÔÌñH¡"RMAJORZ
+CODE_SMELL
+j
+squid:S106	"9Replace this use of System.out or System.err by a logger.(¾ÏÔÂýÿÿÿÿH¢"RMAJORZ
+CODE_SMELL

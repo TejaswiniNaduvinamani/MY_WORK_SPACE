@@ -1,0 +1,14 @@
+
+Psquid:S1643"Use a StringBuilder instead.(Гг╨·8юдт╟О-HГ1RMINORZ
+CODE_SMELL
+l
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ЛМЭ╬8юдт╟О-HХ1RMAJORZ
+CODE_SMELL
+qsquid:S1197&"8Move the array designator from the variable to the type.(│╨═ЛЩЪЪЪЪ8юдт╟О-HИ1RMINORZ
+CODE_SMELL
+Rsquid:S1659"Declare "j" on a separate line.(╢╙П08юдт╟О-HЙ1RMINORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.HК1RMINORZ
+CODE_SMELL
+Xsquid:S1659("Declare "b" on a separate line.(н╠т╒ЫЪЪЪЪ8юдт╟О-HЛ1RMINORZ
+CODE_SMELL

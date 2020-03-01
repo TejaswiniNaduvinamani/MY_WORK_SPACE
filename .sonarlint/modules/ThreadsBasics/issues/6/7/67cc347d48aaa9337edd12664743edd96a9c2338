@@ -1,0 +1,29 @@
+
+squid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(ñ›—à8Ï­ñá-Hì:RMAJORZ
+CODE_SMELL
+q
+squid:S106F"9Replace this use of System.out or System.err by a logger.(É»ºÒþÿÿÿÿ8òåÏðá-Hï:RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(®Ì©ñûÿÿÿÿ8òåÏðá-Hñ:RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(ñ¦Ñâùÿÿÿÿ8Ï­ñá-Hò:RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(ñ¦Ñâùÿÿÿÿ8Ï­ñá-Hô:RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine,"<This block of commented-out lines of code should be removed.(žáü©ÿÿÿÿÿ8¼ð™ñá-Hö:RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(—ñ³ë8„˜¨ñá-Hø:RMAJORZ
+CODE_SMELL
+q
+squid:S106'"9Replace this use of System.out or System.err by a logger.(Ä§ îûÿÿÿÿ8òåÏðá-Hù:RMAJORZ
+CODE_SMELL
+lsquid:S1197"8Move the array designator from the variable to the type.(‘–µ¥8òåÏðá-Hú:RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(÷ý¹ÿúÿÿÿÿ8±Îð©ƒ.Hû:RMAJORZ
+CODE_SMELL
+asquid:S1481".Remove this unused "myServer2" local variable.(¡¸é8±Îð©ƒ.Hý:RMINORZ
+CODE_SMELL
+psquid:S1854"=Remove this useless assignment to local variable "myServer2".(¡¸é8±Îð©ƒ.Hþ:RMAJORZ
+CODE_SMELL

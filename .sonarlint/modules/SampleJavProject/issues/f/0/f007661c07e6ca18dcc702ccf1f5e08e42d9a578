@@ -1,0 +1,15 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡«ÿ¨8Á±×¹¡-H´RMAJORZ
+CODE_SMELL
+lsquid:S1197"8Move the array designator from the variable to the type.(·ığû8Á±×¹¡-H³RMINORZ
+CODE_SMELL
+ksquid:S1854"7Remove this useless assignment to local variable "obj".(¨¬Ä8Á±×¹¡-H¶RMAJORZ
+CODE_SMELL
+\squid:S1481"(Remove this unused "obj" local variable.(¨¬Ä8Á±×¹¡-HµRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ8â¶¥¹¡-H¯RMAJORZ
+CODE_SMELL
+¡squid:UselessImportCheck"[Remove this unused import 'org.springframework.boot.autoconfigure.EnableAutoConfiguration'.(æèşŞøÿÿÿÿ8Ø»®å¡-H…RMINORZ
+CODE_SMELL

@@ -1,0 +1,9 @@
+
+’squid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8Œ¥”ÏÒ,HÁRMAJORZ
+CODE_SMELL
+q
+squid:S106	"9Replace this use of System.out or System.err by a logger.(ßÍÔ…şÿÿÿÿ8¼Ä’ÏÒ,HÂRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(œ•üêûÿÿÿÿ8ÚşœÏÒ,HÃRMAJORZ
+CODE_SMELL

@@ -1,0 +1,22 @@
+
+Ä%squid:RedundantThrowsDeclarationCheck3"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78Ãá©ÓÂ-HÿRMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(äÕÄ†8Ãá©ÓÂ-H÷RMAJORZ
+CODE_SMELL
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8Î›êÑÂ-HúRMINORZVULNERABILITY
+vsquid:S2094"BRemove this empty class, write its code or make it an "interface".(ÞÄÁÞ8™’¨öÂ-HøRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(°½£‹úÿÿÿÿ8’¡žÒÂ-HþRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Éòø8ÃÑÐöÂ-HüRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãÝ„¹ýÿÿÿÿ8Î›êÑÂ-HùRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûì¸’ÿÿÿÿÿ8½Õ¢ÒÂ-HRMAJORZ
+CODE_SMELL
+ssquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Î›êÑÂ-HûRMAJORZBUG
+„squid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(¡ºãüÿÿÿÿ8ðÖµÇà-H‚RMAJORZ
+CODE_SMELL

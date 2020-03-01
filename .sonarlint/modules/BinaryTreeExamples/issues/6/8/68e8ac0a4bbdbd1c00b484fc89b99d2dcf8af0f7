@@ -1,0 +1,43 @@
+
+q
+squid:S106k"9Replace this use of System.out or System.err by a logger.(¸š¸ÿÿÿÿÿ8—«óÀò-H×2RMAJORZ
+CODE_SMELL
+Œ
+squid:S135C"YReduce the total number of break and continue statements in this loop to use at most one.(ãéº¦8ÍÖÒğ-HØ2RMINORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(•ÇÙ8ëíÖÀò-HÙ2RMAJORZ
+CODE_SMELL
+q
+squid:S106g"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ò®ÚÀò-HÚ2RMAJORZ
+CODE_SMELL
+squid:S3973J"YUse curly braces or indentation to denote the code conditionally executed by this "else".(ÔÍØ8ÍÖÒğ-HÛ2RCRITICALZ
+CODE_SMELL
+squid:S3973P"YUse curly braces or indentation to denote the code conditionally executed by this "else".(ÔÍØ8ÍÖÒğ-HÜ2RCRITICALZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(•ÇÙ8»áùÃò-Hİ2RMAJORZ
+CODE_SMELL
+l
+squid:S106b"9Replace this use of System.out or System.err by a logger.(‚äç»8Ùü“Äò-HŞ2RMAJORZ
+CODE_SMELL
+l
+squid:S106e"9Replace this use of System.out or System.err by a logger.(ÁÉ‹Ë8ëíÖÀò-Hß2RMAJORZ
+CODE_SMELL
+k
+squid:S1061"9Replace this use of System.out or System.err by a logger.(•ÇÙ8îäÍÉÊ-Hà2RMAJORZ
+CODE_SMELL
+Wsquid:S1659"#Declare "right" on a separate line.(çùà¶8îäÍÉÊ-Há2RMINORZ
+CODE_SMELL
+q
+squid:S106d"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8…ŸíÓğ-Hâ2RMAJORZ
+CODE_SMELL
+q
+squid:S106j"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8—«óÀò-Hã2RMAJORZ
+CODE_SMELL
+k
+squid:S106)"9Replace this use of System.out or System.err by a logger.(•ÇÙ8ò®ÚÀò-Hä2RMAJORZ
+CODE_SMELL
+q
+squid:S106h"9Replace this use of System.out or System.err by a logger.(úÎìÖûÿÿÿÿ8„‚„Äò-Hå2RMAJORZ
+CODE_SMELL

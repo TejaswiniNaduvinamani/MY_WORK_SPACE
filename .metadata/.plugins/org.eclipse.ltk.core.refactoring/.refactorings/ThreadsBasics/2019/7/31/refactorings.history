@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.org.syncronize.Shared&apos; to &apos;SharedResource&apos;&#x0D;&#x0A;- Original project: &apos;ThreadsBasics&apos;&#x0D;&#x0A;- Original element: &apos;com.org.syncronize.Shared&apos;&#x0D;&#x0A;- Renamed element: &apos;com.org.syncronize.SharedResource&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Shared&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.org.syncronize{DeadLockDemo.java[Shared" matchStrategy="1" name="SharedResource" qualified="false" references="true" similarDeclarations="false" stamp="1564416243975" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,17 @@
+
+\squid:S1659"#Declare "right" on a separate line.(€ ÿŞûÿÿÿÿ8Äã­¸ô-H´5RMINORZ
+CODE_SMELL
+Osquid:S3626-"Remove this redundant jump.(ûÁİ…8’÷Å¸ô-Hµ5RMINORZ
+CODE_SMELL
+msquid:S26961"6Make the enclosing method "static" or remove this set.(—¶‡Ø8•ıŠ¹ô-H¶5RCRITICALZ
+CODE_SMELL
+k
+squid:S106;"9Replace this use of System.out or System.err by a logger.(âÈ¬l8ª¤‘¹ô-H·5RMAJORZ
+CODE_SMELL
+[squid:S1659""Declare "next" on a separate line.(€ ÿŞûÿÿÿÿ8•ıŠ¹ô-H¸5RMINORZ
+CODE_SMELL
+Osquid:S36268"Remove this redundant jump.(ûÁİ…8ª¤‘¹ô-H¹5RMINORZ
+CODE_SMELL
+‘
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(·Ã½şÿÿÿÿ8Äã­¸ô-Hº5RMINORZ
+CODE_SMELL

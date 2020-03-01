@@ -1,0 +1,14 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(öüúİ8¤ ÏÒ,HğRMAJORZ
+CODE_SMELL
+’squid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8¤ ÏÒ,HñRMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(şéÑ„8ø–—ÏÒ,HëRMAJORZ
+CODE_SMELL
+zsquid:S00112
+"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe8Ú¿òÏÒ,HõRMAJORZ
+CODE_SMELL
+{squid:S00112	"FDefine and throw a dedicated exception instead of using a generic one.(¸¾è8Ú¿òÏÒ,HöRMAJORZ
+CODE_SMELL

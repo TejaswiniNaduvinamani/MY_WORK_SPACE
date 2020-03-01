@@ -1,0 +1,88 @@
+<!-- <script
+    src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
+
+<mat-card>
+    <div id="groupdiv"  >
+<div  class="row  left-align"  >
+    <div class="col-sm-1 ">
+        <mat-icon *ngIf="!isCollapsable">add_circle_ouline</mat-icon>
+        <mat-icon *ngIf="!isCollapsable">remove_circle_ouline</mat-icon>
+             
+    </div>
+    <div class="col-sm-4 ">
+        Total Groups
+    </div>
+</div>
+<div *ngIf="isCollapsable">
+<div class="row">
+ <div class="col-sm-2"><mat-card-subtitle> Include</mat-card-subtitle></div>
+  <div class="col-sm-2"><mat-card-subtitle>Exclude</mat-card-subtitle></div>
+</div>
+<div class="row">
+    <div class="col-sm-2">
+        <input type="text"  name="search" style="width: 132px" >
+        <i class="fa fa-search" style="margin-left: -17px; color:grey; cursor: pointer" role="button" (click)="onClick()"></i>
+    </div>
+     <div class="col-sm-2">
+        <input type="text" name="search" style="width: 132px">
+        <i class="fa fa-search" style="margin-left: -17px; color:grey; cursor: pointer" role="button"></i>
+     </div>
+</div>
+
+<div id=group class="row" *ngFor="let group of groups">
+    <div class="col-sm-2">
+        <button (click)="toggle2(group)" style="width: 15px">
+          <span class="background left-align margin-space" >
+            <img src="{{imageDir}}assets/images/u658.png" style="width: 13px" role="button">
+          </span>  
+        </button>
+        <mat-card-subtitle>{{group.id}}<i class="fa fa-arrows-alt rotate-45" style="margin-left: 69px"></i> </mat-card-subtitle> 
+        <div *ngIf="group.isCollapsable2">
+        <div   class="col-sm-2" *ngFor="let group of groups">
+            {{group.id}} 
+        </div>
+        <div ></div>
+      </div>
+    </div>
+    <div class="col-sm-2">  
+      <button (click)="toggle2(group)" style="width: 15px"> 
+        <span class="background left-align margin-space" >
+          <img src="{{imageDir}}assets/images/u658.png" role="button" style="width: 13px">
+        </span>  
+    </button>{{group.id}}
+    <div *ngIf="group.isCollapsable2">
+    <div    class="col-sm-2" *ngFor="let group of groups">
+        {{group.id}}
+    </div>
+  </div>
+  </div>
+</div>
+</div>
+</div></mat-card> -->
+
+<div>
+<label>User Name</label>
+<input name="id1" type="text" [(ngModel)]="userName">
+<p>{{ userName }} </p>
+<button class= "btn btn-primary" type="reset" [disabled]="isUserNameEmpty" (click)="OnResetUserName()">Reset User </button>
+</div>
+
+<div style="padding-top: 10px">
+<button class= "btn btn-primary" (click)="hideText = !hideText; onClickDisplay()">Diaplay Details</button>
+<p *ngIf="hideText">hidden text</p>
+<p *ngFor="let log of logs" [ngStyle]="{ backgroundColor: log >= 5 ? 'blue' : 'white'}" [ngClass]="log>=5 ? 'change-text-color' : ''">{{ log }}</p>
+</div>
+
+
+<!-- <ng-template #tipContent>
+  <span>content here kjdgfsjhfgajhgjasgdajgsdjhasgdashdgfhasdfhagsdfgha</span>
+  </ng-template>
+<a  placement="top" tooltipClass="my-custom-class" #t2="ngbTooltip" triggers="mouseover" [autoClose]="'outside'" [ngbTooltip]="tipContent">
+  Tooltip on right
+</a>  -->
+
+
+
+<!-- <a class="btn btn-tooltip"  placement="top" [tooltip]="tipContent"> Tool Tip </a> -->

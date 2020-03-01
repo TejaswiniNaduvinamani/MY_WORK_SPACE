@@ -1,0 +1,17 @@
+package com.org.syncronize;
+
+public class A {
+	
+	
+	public static void main(String[] args) {
+		int mark = 50;
+		int total=100;
+		float per = (float)(mark/total)*100;
+		System.out.println(per);
+		
+		float f[] = new float[5];
+		Object obj = f;
+		System.out.println(f[0]);
+	}
+
+}

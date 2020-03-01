@@ -1,0 +1,27 @@
+
+xsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ÿÑ¨çıÿÿÿÿ8ÚÀ•ôà-HŒ7RMAJORZBUG
+Ysquid:S1214""Move constants to a class or enum.(’®Æé8ÚÀ•ôà-H7RCRITICALZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(úÜ•úÿÿÿÿ8ÚÀ•ôà-H7RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ïŠıÿÿÿÿ8ÚÀ•ôà-H7RMAJORZ
+CODE_SMELL
+Osquid:S2438'""Argument 1" is a "Thread".(Çïœ³8Ö¬Ÿôà-H7RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(”É¾ìùÿÿÿÿ8Ö¬Ÿôà-H‘7RMAJORZ
+CODE_SMELL
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÚÀ•ôà-H’7RMINORZVULNERABILITY
+ssquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8İ“§ôà-H“7RMAJORZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ßô£¼ùÿÿÿÿ8Ş‰ ôà-H”7RMAJORZ
+CODE_SMELL
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8İ“§ôà-H•7RMINORZVULNERABILITY
+l
+squid:S106)"9Replace this use of System.out or System.err by a logger.(öÈÛ¡8ËÃ¤ôà-H–7RMAJORZ
+CODE_SMELL
+q
+squid:S106,"9Replace this use of System.out or System.err by a logger.(÷ššùÿÿÿÿ8Ñµôà-H—7RMAJORZ
+CODE_SMELL

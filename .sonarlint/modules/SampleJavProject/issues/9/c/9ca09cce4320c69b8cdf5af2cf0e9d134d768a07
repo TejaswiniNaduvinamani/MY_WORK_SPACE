@@ -1,0 +1,53 @@
+
+’squid:S22934"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8Ú²Û‡×,H–RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(áùá¬ûÿÿÿÿ8ß¨Ó‡×,H—RMAJORZ
+CODE_SMELL
+q
+squid:S106G"9Replace this use of System.out or System.err by a logger.(Ş«Ï¥üÿÿÿÿ8¢†ö‡×,H˜RMAJORZ
+CODE_SMELL
+q
+squid:S1066"9Replace this use of System.out or System.err by a logger.(Ö—·Šøÿÿÿÿ8®Ù‡×,H™RMAJORZ
+CODE_SMELL
+Œsquid:S1602"SRemove useless curly braces around statement and then remove useless return keyword(øèª‡úÿÿÿÿ8ÄÙË‡×,HšRMINORZ
+CODE_SMELL
+‚squid:S1192B"FDefine a constant instead of duplicating this literal "Geeks" 4 times.(ÏÔ¼şÿÿÿÿ8ç¢­ˆ×,H›RCRITICALZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(„ÅØ®8êÎÑ‡×,HœRMAJORZ
+CODE_SMELL
+q
+squid:S1068"9Replace this use of System.out or System.err by a logger.(Ö—·Šøÿÿÿÿ8®Ù‡×,HRMAJORZ
+CODE_SMELL
+q
+squid:S106H"9Replace this use of System.out or System.err by a logger.(äìÇµÿÿÿÿÿ8ç¢­ˆ×,HRMAJORZ
+CODE_SMELL
+†squid:S11926"JDefine a constant instead of duplicating this literal ", list = " 3 times.(Ö—·Šøÿÿÿÿ8®Ù‡×,HŸRCRITICALZ
+CODE_SMELL
+l
+squid:S106K"9Replace this use of System.out or System.err by a logger.(¥ôúŒ8ç¢­ˆ×,H RMAJORZ
+CODE_SMELL
+k
+squid:S106M"9Replace this use of System.out or System.err by a logger.(ûÑì*8øè±¥Ø,H¡RMAJORZ
+CODE_SMELL
+qsquid:S18544"8Remove this useless assignment to local variable "list".(çâîÀıÿÿÿÿ8Ú²Û‡×,H¢RMAJORZ
+CODE_SMELL
+‡squid:S11926"KDefine a constant instead of duplicating this literal "letters = " 3 times.(Ö—·Šøÿÿÿÿ8®Ù‡×,H£RCRITICALZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÜÈ¹Õ8ÄÙË‡×,H¤RMAJORZ
+CODE_SMELL
+q
+squid:S106:"9Replace this use of System.out or System.err by a logger.(Ö—·Šøÿÿÿÿ8®Ù‡×,H¥RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹ôç¥øÿÿÿÿ8ÄÙË‡×,H¦RMAJORZ
+CODE_SMELL
+’squid:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ïûôìúÿÿÿÿ8®Ù‡×,H§RMINORZ
+CODE_SMELL
+squid:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(óË¯8ç¢­ˆ×,H¨RMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine="<This block of commented-out lines of code should be removed.(àìšã8÷Ğ­ˆ×,H©RMAJORZ
+CODE_SMELL
+ˆsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ı‰Å«HªRMINORZ
+CODE_SMELL

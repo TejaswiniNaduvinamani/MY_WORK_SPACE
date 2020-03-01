@@ -1,0 +1,30 @@
+
+l
+squid:S106D"9Replace this use of System.out or System.err by a logger.(ŠùÊ8©Ï¤ÖÜ-HÀ1RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ö°·àûÿÿÿÿ8ËØšÖÜ-HÁ1RMAJORZ
+CODE_SMELL
+l
+squid:S106%"9Replace this use of System.out or System.err by a logger.(µˆœÑ8ËØšÖÜ-HÂ1RMAJORZ
+CODE_SMELL
+l
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ç’¤™8ÛÛ¡ÖÜ-HÃ1RMAJORZ
+CODE_SMELL
+usquid:UselessImportCheck
+"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8˜ñ¯ã-HÄ1RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine8"<This block of commented-out lines of code should be removed.(ö°·àûÿÿÿÿ8éÔ÷ÕÜ-HÅ1RMAJORZ
+CODE_SMELL
+qsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8‚“÷ÕÜ-HÆ1RMINORZ
+CODE_SMELL
+’squid:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(äü¸ÿÿÿÿÿ8ÛÛ¡ÖÜ-HÇ1RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(ö°·àûÿÿÿÿ8ˆµ…ÖÜ-HÈ1RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(«éŠ×ÿÿÿÿÿ8°ÔñÕÜ-HÉ1RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(ö°·àûÿÿÿÿ8©Ï¤ÖÜ-HÊ1RMAJORZ
+CODE_SMELL
+l
+squid:S106-"9Replace this use of System.out or System.err by a logger.(µˆœÑ8ƒ¾’ÖÜ-HË1RMAJORZ
+CODE_SMELL

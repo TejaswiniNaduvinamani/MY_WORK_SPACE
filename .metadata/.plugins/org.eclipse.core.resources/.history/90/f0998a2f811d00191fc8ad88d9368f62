@@ -1,0 +1,5 @@
+package com.org.stack.demo;
+
+public class CustomStack {
+
+}

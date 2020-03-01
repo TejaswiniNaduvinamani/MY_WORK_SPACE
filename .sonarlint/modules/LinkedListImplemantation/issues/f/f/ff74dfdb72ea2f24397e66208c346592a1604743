@@ -1,0 +1,35 @@
+
+tsquid:S2259F"BA "NullPointerException" could be thrown; "prev" is nullable here.(ÄÎ³ıÿÿÿÿ8Õ¶îä¡-HÖ*RMAJORZBUG
+€squid:CommentedOutCodeLineÀ"<This block of commented-out lines of code should be removed.(½ÀĞ8Õ¶îä¡-HÌ*RMAJORZ
+CODE_SMELL
+r
+squid:S106É"9Replace this use of System.out or System.err by a logger.(Ã‚ùŒşÿÿÿÿ8Õ¶îä¡-HÎ*RMAJORZ
+CODE_SMELL
+r
+squid:S106Ë"9Replace this use of System.out or System.err by a logger.(ÈÇÏ’üÿÿÿÿ8Õ¶îä¡-HÍ*RMAJORZ
+CODE_SMELL
+r
+squid:S106Ï"9Replace this use of System.out or System.err by a logger.(ÙÙ˜×øÿÿÿÿ8Õ¶îä¡-HÒ*RMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLineÇ"<This block of commented-out lines of code should be removed.(Óˆ»£üÿÿÿÿ8éŒÑ‚¥-HÉ*RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLineµ"<This block of commented-out lines of code should be removed.(€ûµ,8‹öªœ-HÊ*RMAJORZ
+CODE_SMELL
+r
+squid:S106Ì"9Replace this use of System.out or System.err by a logger.(Ô™àÎûÿÿÿÿ8Õ¶îä¡-HÑ*RMAJORZ
+CODE_SMELL
+€squid:CommentedOutCodeLine¹"<This block of commented-out lines of code should be removed.(¹Üôñ8‹öªœ-HË*RMAJORZ
+CODE_SMELL
+r
+squid:S106Ö"9Replace this use of System.out or System.err by a logger.(¾çš™ùÿÿÿÿ8Õ¶îä¡-HÔ*RMAJORZ
+CODE_SMELL
+`squid:S1172Ó"+Remove this unused method parameter "list".(˜¤ñõ8Õ¶îä¡-HĞ*RMAJORZ
+CODE_SMELL
+m
+squid:S106Ğ"9Replace this use of System.out or System.err by a logger.(¢¬æ–8õµµ›¥-HÓ*RMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine×"<This block of commented-out lines of code should be removed.(µÛ³íùÿÿÿÿ8ã€âªœ-H×*RMAJORZ
+CODE_SMELL
+m
+squid:S106Í"9Replace this use of System.out or System.err by a logger.(Õàåø8›ÃĞ‚¥-HÏ*RMAJORZ
+CODE_SMELL

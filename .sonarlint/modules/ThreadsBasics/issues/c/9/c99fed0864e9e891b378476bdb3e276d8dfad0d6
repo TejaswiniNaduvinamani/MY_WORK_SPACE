@@ -1,0 +1,19 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(úÜ•úÿÿÿÿ8“İ´õà-H˜7RMAJORZ
+CODE_SMELL
+q
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ì‚äÉÿÿÿÿÿ8“İ´õà-H™7RMAJORZ
+CODE_SMELL
+Ä%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78“İ´õà-Hš7RMINORZ
+CODE_SMELL
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8‹¿õà-H›7RMINORZVULNERABILITY
+l
+squid:S106-"9Replace this use of System.out or System.err by a logger.(Òìïµ8“İ´õà-Hœ7RMAJORZ
+CODE_SMELL
+ssquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‹¿õà-H7RMAJORZBUG
+squid:UselessImportCheck"@Remove this unused import 'java.util.concurrent.CountDownLatch'.(¤ƒô§8“İ´õà-H7RMINORZ
+CODE_SMELL
+q
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Úù«àúÿÿÿÿ8è†ãá-HŸ7RMAJORZ
+CODE_SMELL

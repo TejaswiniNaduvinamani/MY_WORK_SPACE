@@ -1,0 +1,12 @@
+
+q
+squid:S106I"9Replace this use of System.out or System.err by a logger.(”äÙóýÿÿÿÿ8€Çöªî-Hß-RMAJORZ
+CODE_SMELL
+l
+squid:S106G"9Replace this use of System.out or System.err by a logger.(ŸÏÍè8Äñéªî-Hà-RMAJORZ
+CODE_SMELL
+“squid:S3973'"WUse curly braces or indentation to denote the code conditionally executed by this "if".(Ó”ìŠýÿÿÿÿ8ÛËåªî-Há-RCRITICALZ
+CODE_SMELL
+Žsquid:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(‡¡ˆÕ8ÛËåªî-Hâ-RCRITICALZ
+CODE_SMELL
+Wsquid:S2116;"%Use "Arrays.toString(array)" instead.(©½Óˆùÿÿÿÿ8åÇîªî-Hã-RMAJORZBUG

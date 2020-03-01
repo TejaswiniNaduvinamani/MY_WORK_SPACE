@@ -1,0 +1,13 @@
+
+Wsquid:S1659
+"#Declare "right" on a separate line.(çùà¶8“´àúù-HÏ5RMINORZ
+CODE_SMELL
+rsquid:S2696"6Make the enclosing method "static" or remove this set.(ëæûÿÿÿÿÿ8“´àúù-HĞ5RCRITICALZ
+CODE_SMELL
+Àsquid:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(È·´•üÿÿÿÿ8“´àúù-HÑ5RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¾’òÈ8“´àúù-HÒ5RMAJORZ
+CODE_SMELL
+squid:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(‹ÜÑˆ8“´àúù-HÓ5RCRITICALZ
+CODE_SMELL

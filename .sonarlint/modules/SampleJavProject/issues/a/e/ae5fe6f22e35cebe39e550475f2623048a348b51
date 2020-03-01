@@ -1,0 +1,14 @@
+
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿHï#RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ç‚þ©ÿÿÿÿÿHî#RMAJORZ
+CODE_SMELL
+d
+squid:S106"9Replace this use of System.out or System.err by a logger.(€Ë²:Hí#RMAJORZ
+CODE_SMELL
+‹squid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿHì#RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²Ü±éÿÿÿÿÿ8ï¥°ã-H˜$RMAJORZ
+CODE_SMELL

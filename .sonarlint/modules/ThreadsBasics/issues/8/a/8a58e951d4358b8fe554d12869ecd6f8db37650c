@@ -1,0 +1,17 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Θ¨8β»»θα-Hΐ&RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(γ®—z8‹§Έθα-HΑ&RMAJORZ
+CODE_SMELL
+_squid:S1148"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8β»»θα-HΒ&RMINORZVULNERABILITY
+Usquid:S3010"!Remove this assignment of "init".(Νη‰Ò8ΈΑ―θα-HΓ&RMAJORZ
+CODE_SMELL
+ssquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(δ Ή€8β»»θα-HΔ&RMAJORZBUG
+zsquid:S4065"FReplace this anonymous class with a call to "ThreadLocal.withInitial".(ν…γ®8ή―θα-HΕ&RMINORZ
+CODE_SMELL
+isquid:S2209"5Change this instance-reference to a static reference.(Νη‰Ò8ΈΑ―θα-HΖ&RMAJORZ
+CODE_SMELL
+jsquid:S1135"2Complete the task associated to this TODO comment.(ΥΜ®ώÿÿÿÿ8β»»θα-HΗ&RINFOZ
+CODE_SMELL

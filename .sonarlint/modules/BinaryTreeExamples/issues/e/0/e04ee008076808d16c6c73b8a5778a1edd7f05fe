@@ -1,0 +1,32 @@
+
+Osquid:S3626<"Remove this redundant jump.(ûÁİ…8ù£°·ô-Hì2RMINORZ
+CODE_SMELL
+msquid:S2696@"6Make the enclosing method "static" or remove this set.(Ì‚ˆÌ8ù£°·ô-Hî2RCRITICALZ
+CODE_SMELL
+msquid:S2696 "6Make the enclosing method "static" or remove this set.( ‡¤¬8àúœ·ô-Hé2RCRITICALZ
+CODE_SMELL
+‘
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(·Ã½şÿÿÿÿ8Ğ‘·ô-HÕ2RMINORZ
+CODE_SMELL
+q
+squid:S106g"9Replace this use of System.out or System.err by a logger.(ù†˜ıÿÿÿÿ8àúœ·ô-Hç2RMAJORZ
+CODE_SMELL
+msquid:S2696K"6Make the enclosing method "static" or remove this set.(Ì‚ˆÌ8ô´É·ô-Hó2RCRITICALZ
+CODE_SMELL
+qsquid:S1197h"8Move the array designator from the variable to the type.(Ñı‚ùÿÿÿÿ8ù£°·ô-Hë2RMINORZ
+CODE_SMELL
+msquid:S2696"6Make the enclosing method "static" or remove this set.( ‡¤¬8àúœ·ô-Hè2RCRITICALZ
+CODE_SMELL
+l
+squid:S1065"9Replace this use of System.out or System.err by a logger.(èş¯ğ8Ğ‘·ô-HÖ2RMAJORZ
+CODE_SMELL
+msquid:S2696'"6Make the enclosing method "static" or remove this set.( ‡¤¬8àúœ·ô-Hê2RCRITICALZ
+CODE_SMELL
+Wsquid:S1659"#Declare "right" on a separate line.(çùà¶8Ğ‘·ô-HÓ2RMINORZ
+CODE_SMELL
+Osquid:S3626G"Remove this redundant jump.(ûÁİ…8“¯Å·ô-Hñ2RMINORZ
+CODE_SMELL
+Osquid:S36262"Remove this redundant jump.(ûÁİ…8Ğ‘·ô-HÔ2RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine["<This block of commented-out lines of code should be removed.(¾ôä¹ıÿÿÿÿ8¾Øà·ô-Hö2RMAJORZ
+CODE_SMELL

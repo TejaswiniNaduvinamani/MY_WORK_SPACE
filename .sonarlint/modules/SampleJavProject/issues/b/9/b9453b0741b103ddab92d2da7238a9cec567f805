@@ -1,0 +1,13 @@
+
+Xsquid:S2160"+Override the "equals" method in this class.(¦µÒÎHàRMINORZ
+CODE_SMELL
+isquid:S1854"7Remove this useless assignment to local variable "st1".(Â»È’ýÿÿÿÿHáRMAJORZ
+CODE_SMELL
+}squid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(¦µÒÎHâRMAJORZ
+CODE_SMELL
+‚squid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(°äˆòùÿÿÿÿHãRMAJORZ
+CODE_SMELL
+}squid:S1149	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(…ç“±HäRMAJORZ
+CODE_SMELL
+‚squid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Â»È’ýÿÿÿÿHåRMAJORZ
+CODE_SMELL

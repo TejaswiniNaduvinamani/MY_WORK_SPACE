@@ -1,0 +1,29 @@
+
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡«ÿ¨8ıüø©ƒ.H¯;RMAJORZ
+CODE_SMELL
+ksquid:S1854"7Remove this useless assignment to local variable "obj".(¨¬Ä8Áè‡ªƒ.Hµ;RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(±›¤‹8«¸ªƒ.H»;RMAJORZ
+CODE_SMELL
+
+squid:S128"LEnd this switch case with an unconditional break, return or throw statement.(¢¥¡Š8«¸ªƒ.H¹;RBLOCKERZ
+CODE_SMELL
+u"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(€¨îúûÿÿÿÿ8«¸ªƒ.H¸;RCRITICALZ
+CODE_SMELL
+lsquid:S1197"8Move the array designator from the variable to the type.(·ığû8Áè‡ªƒ.H²;RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûïŒú8Áè‡ªƒ.H³;RMAJORZ
+CODE_SMELL
+„squid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(€¨îúûÿÿÿÿ8«¸ªƒ.Hº;RMINORZ
+CODE_SMELL
+\squid:S1481"(Remove this unused "obj" local variable.(¨¬Ä8Áè‡ªƒ.H´;RMINORZ
+CODE_SMELL
+msquid:S2184"@Cast one of the operands of this integer division to a "double".(¡“’—8é¶ƒªƒ.H°;RMINORZBUG
+q
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ÔÒ£ßüÿÿÿÿ8«¸ªƒ.H¼;RMAJORZ
+CODE_SMELL
+jsquid:S1135'"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8½åÅ«ƒ.H¿;RINFOZ
+CODE_SMELL

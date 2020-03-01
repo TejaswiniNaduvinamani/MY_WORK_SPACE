@@ -1,0 +1,50 @@
+
+_squid:S1481'"&Remove this unused "y" local variable.(¼Ê„†ıÿÿÿÿ8¥º¼í-H¦.RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(“Ëò‰úÿÿÿÿ8¹ò¹°ï-H¹.RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.( ¹Åí8¥º¼í-H›.RMAJORZ
+CODE_SMELL
+q
+squid:S1061"9Replace this use of System.out or System.err by a logger.(”äÙóıÿÿÿÿ8ô÷¦©î-H¨.RMAJORZ
+CODE_SMELL
+lsquid:S1197"8Move the array designator from the variable to the type.(Ã¶âù8Î—ï÷ì-H¤.RMINORZ
+CODE_SMELL
+_squid:S1481&"&Remove this unused "x" local variable.(¾„ëüÿÿÿÿ8¥º¼í-H®.RMINORZ
+CODE_SMELL
+lsquid:S1854""8Remove this useless assignment to local variable "arr1".(ü’ß¼8Î—ï÷ì-H£.RMAJORZ
+CODE_SMELL
+q
+squid:S1067"9Replace this use of System.out or System.err by a logger.(¸÷¿Ïúÿÿÿÿ8È²Åí-H©.RMAJORZ
+CODE_SMELL
+q
+squid:S1064"9Replace this use of System.out or System.err by a logger.(³Ğçúÿÿÿÿ8¤¾´„ï-HŸ.RMAJORZ
+CODE_SMELL
+q
+squid:S106/"9Replace this use of System.out or System.err by a logger.(íñËìşÿÿÿÿ8šÆàì-Hœ.RMAJORZ
+CODE_SMELL
+nsquid:S1854'"5Remove this useless assignment to local variable "y".(¼Ê„†ıÿÿÿÿ8¥º¼í-H.RMAJORZ
+CODE_SMELL
+]squid:S1481"")Remove this unused "arr1" local variable.(ü’ß¼8Î—ï÷ì-H«.RMINORZ
+CODE_SMELL
+lsquid:S1197""8Move the array designator from the variable to the type.(ü’ß¼8Î—ï÷ì-Hª.RMINORZ
+CODE_SMELL
+qsquid:S1197!"8Move the array designator from the variable to the type.(«â©şÿÿÿÿ8Î—ï÷ì-H .RMINORZ
+CODE_SMELL
+l
+squid:S1063"9Replace this use of System.out or System.err by a logger.(•é“„8šÆàì-H.RMAJORZ
+CODE_SMELL
+Wsquid:S3010"Remove this assignment of "i".(›Âó“ıÿÿÿÿ8Î—ï÷ì-H¥.RMAJORZ
+CODE_SMELL
+bsquid:S1481!")Remove this unused "arr2" local variable.(«â©şÿÿÿÿ8Î—ï÷ì-H­.RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìÁÀ‹üÿÿÿÿ8ĞÚŠ„ï-H¬.RMAJORZ
+CODE_SMELL
+„squid:S2177"WRename this method; there is a "private" method in the parent class with the same name.(Ññ³¤8šÆàì-H¡.RMAJORZBUG
+q
+squid:S106."9Replace this use of System.out or System.err by a logger.(”äÙóıÿÿÿÿ8Ãı»í-H¢.RMAJORZ
+CODE_SMELL
+ssquid:UnusedPrivateMethod",Remove this unused private "flipper" method.(‰º¥çşÿÿÿÿ8šÆàì-H§.RMAJORZ
+CODE_SMELL

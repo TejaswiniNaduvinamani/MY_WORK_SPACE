@@ -1,0 +1,37 @@
+import java.util.Scanner;
+
+public class SubArraySum {
+
+	public static void main (String[] args) {
+	    Scanner sc = new Scanner(System.in);
+	    Integer arrSize = sc.nextInt();
+	    Integer sum = sc.nextInt();
+	    Integer[] arr = new Integer[arrSize];
+	    for(int i=0; i<arrSize; i++){
+	        arr[i] = sc.nextInt();
+	    }
+	    int subArraySum =0;
+	    findSubArraySum(arrSize, sum, arr);
+	    
+		//code
+	}
+
+	private static void findSubArraySum(Integer arrSize, Integer sum, Integer[] arr) {
+		int subArraySum;
+		for(int i =0 ; i< arrSize; i++){
+	        subArraySum = arr[i];
+	        int count=1;
+	        while(sum > subArraySum && i!= arrSize-1){
+	            subArraySum = subArraySum + arr[i+count];
+	            if(subArraySum==sum){
+	                System.out.println((i+1) + " " + (i+count+1));
+	                return ;
+	            }
+	            count++;
+	        }
+	    
+	    }
+	}
+
+
+}

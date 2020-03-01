@@ -1,0 +1,17 @@
+
+}squid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(ª¶ÎœüÿÿÿÿH’	RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(…¶‚©şÿÿÿÿH	RMAJORZ
+CODE_SMELL
+qsquid:S3518$"CMake sure this expression can't be zero before doing this division.(«¼ÛÌşÿÿÿÿH	RCRITICALZBUG
+j
+squid:S106$"9Replace this use of System.out or System.err by a logger.(«¼ÛÌşÿÿÿÿH‘	RMAJORZ
+CODE_SMELL
+q
+squid:S1060"9Replace this use of System.out or System.err by a logger.(’òÛ›şÿÿÿÿ8ôû¨œ-H¢	RMAJORZ
+CODE_SMELL
+’squid:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(½áØÔùÿÿÿÿ8ôû¨œ-H¡	RMINORZ
+CODE_SMELL
+esquid:S16120",Replace this lambda with a method reference.(’òÛ›şÿÿÿÿ8Öñª¨œ-H¦	RMINORZ
+CODE_SMELL

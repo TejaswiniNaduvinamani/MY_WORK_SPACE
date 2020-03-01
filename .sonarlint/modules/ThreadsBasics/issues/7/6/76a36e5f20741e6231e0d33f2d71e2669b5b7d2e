@@ -1,0 +1,19 @@
+
+Vsquid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8ôÊ•ÔÂ-HÒ7RBLOCKERZBUG
+ssquid:S21422"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8þ—ŒÔÂ-HÓ7RMAJORZBUG
+_squid:S1148;"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8þ—ŒÔÂ-HÔ7RMINORZVULNERABILITY
+Vsquid:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8ôÊ•ÔÂ-HÕ7RBLOCKERZBUG
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(øÉ¬Üÿÿÿÿÿ8Ñ¬‚ÔÂ-HÖ7RMAJORZ
+CODE_SMELL
+bsquid:S2446#"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8µì³Øî-H×7RMAJORZBUG
+wsquid:S2276$"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8£Ÿ’ÔÂ-HØ7RBLOCKERZBUG
+l
+squid:S106""9Replace this use of System.out or System.err by a logger.(¹Ôž8Ñ¬‚ÔÂ-HÙ7RMAJORZ
+CODE_SMELL
+wsquid:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(»ãßºøÿÿÿÿ8£Ÿ’ÔÂ-HÚ7RBLOCKERZBUG
+rsquid:S1155">Use isEmpty() to check whether the collection is empty or not.(§ŒÍ‚8Ñ¬‚ÔÂ-HÛ7RMINORZ
+CODE_SMELL
+bsquid:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8µì³Øî-HÜ7RMAJORZBUG
+ssquid:S2142:"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8þ—ŒÔÂ-HÝ7RMAJORZBUG
+_squid:S11483"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8þ—ŒÔÂ-HÞ7RMINORZVULNERABILITY

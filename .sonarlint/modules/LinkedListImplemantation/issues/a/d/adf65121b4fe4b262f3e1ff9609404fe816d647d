@@ -1,0 +1,11 @@
+
+dsquid:S1172 "+Remove this unused method parameter "list".(ğş¾æÿÿÿÿÿ8ÏÓ‹…î-Hñ7RMAJORZ
+CODE_SMELL
+q
+squid:S106#"9Replace this use of System.out or System.err by a logger.(¾çš™ùÿÿÿÿ8ÏÓ‹…î-Hò7RMAJORZ
+CODE_SMELL
+l
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ú¥Ò8Òæ¢‡î-Hó7RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(µÛ³íùÿÿÿÿ8ÏÓ‹…î-Hô7RMAJORZ
+CODE_SMELL

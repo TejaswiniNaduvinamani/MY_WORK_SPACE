@@ -1,0 +1,14 @@
+
+]squid:S1068")Remove this unused "color" private field.(È„…¦8ÈÚÈÈÒ,Hò1RMAJORZ
+CODE_SMELL
+l
+squid:S106%"9Replace this use of System.out or System.err by a logger.(Û£”û8úçìÈÒ,Hó1RMAJORZ
+CODE_SMELL
+l
+squid:S106&"9Replace this use of System.out or System.err by a logger.(èà¨Â8úçìÈÒ,Hô1RMAJORZ
+CODE_SMELL
+l
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ıõæˆ8úçìÈÒ,Hõ1RMAJORZ
+CODE_SMELL
+_squid:S1068"+Remove this unused "noTyres" private field.(Ê†â8ÈÚÈÈÒ,Hö1RMAJORZ
+CODE_SMELL

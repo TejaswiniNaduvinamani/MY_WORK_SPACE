@@ -1,0 +1,52 @@
+
+„squid:CommentedOutCodeLine9"<This block of commented-out lines of code should be removed.(òà›Þùÿÿÿÿ8î³÷»Ã-H¶7RMAJORZ
+CODE_SMELL
+_squid:S1148n"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8†åßšÄ-H·7RMINORZVULNERABILITY
+_squid:S11480"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8áÈ¢»Ã-H¸7RMINORZVULNERABILITY
+msquid:S1854w":Remove this useless assignment to local variable "print1".(ÌÃ»8ÑæšÄ-H¹7RMAJORZ
+CODE_SMELL
+q
+squid:S106i"9Replace this use of System.out or System.err by a logger.(‡¯±’ùÿÿÿÿ8†åßšÄ-Hº7RMAJORZ
+CODE_SMELL
+dsquid:S1481x"+Remove this unused "print2" local variable.(úõ˜Œúÿÿÿÿ8ÑæšÄ-H»7RMINORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÈÏõ‡ýÿÿÿÿ8î³÷»Ã-H¼7RMAJORZ
+CODE_SMELL
+Vsquid:S2189g""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ8°ŠëšÄ-H½7RBLOCKERZBUG
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8áÈ¢»Ã-H¾7RMINORZVULNERABILITY
+ssquid:S2142l"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8†åßšÄ-H¿7RMAJORZBUG
+Ÿ"squid:ClassVariableVisibilityCheck	"QMake count a static final constant or non-public and provide accessors if needed.(˜“ÿ±8ø¤®»Ã-HÀ7RMINORZVULNERABILITY
+ssquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8áÈ¢»Ã-HÁ7RMAJORZBUG
+jsquid:S1135m"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ8†åßšÄ-HÂ7RINFOZ
+CODE_SMELL
+„squid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(©®ˆ¿ûÿÿÿÿ8î³÷»Ã-HÃ7RMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(Ý¬”Ûüÿÿÿÿ8ÑæšÄ-HÄ7RMAJORZ
+CODE_SMELL
+q
+squid:S106v"9Replace this use of System.out or System.err by a logger.(ÄÖ¬¬ùÿÿÿÿ8‘Ñ€¿Ã-HÅ7RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ž³ð¸ûÿÿÿÿ8áÈ¢»Ã-HÆ7RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(•Ñ¤úÿÿÿÿ8î³÷»Ã-HÇ7RMAJORZ
+CODE_SMELL
+…squid:CommentedOutCodeLine€"<This block of commented-out lines of code should be removed.(ýªþÔøÿÿÿÿ8î³÷»Ã-HÈ7RMAJORZ
+CODE_SMELL
+msquid:S2696*"6Make the enclosing method "static" or remove this set.( §Ž8¥÷¼Ã-HÉ7RCRITICALZ
+CODE_SMELL
+ssquid:S2142/"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8áÈ¢»Ã-HÊ7RMAJORZBUG
+squid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(¼öÆ8î³÷»Ã-HË7RMAJORZ
+CODE_SMELL
+q
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Ž³ð¸ûÿÿÿÿ8áÈ¢»Ã-HÌ7RMAJORZ
+CODE_SMELL
+bsquid:S1444	"+Make this "public static count" field final(˜“ÿ±8ø¤®»Ã-HÍ7RMINORZVULNERABILITY
+‰squid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(“–ýþ8¥÷¼Ã-HÎ7RCRITICALZ
+CODE_SMELL
+ssquid:S1854x":Remove this useless assignment to local variable "print2".(úõ˜Œúÿÿÿÿ8ÑæšÄ-HÏ7RMAJORZ
+CODE_SMELL
+^squid:S1481w"+Remove this unused "print1" local variable.(ÌÃ»8ÑæšÄ-HÐ7RMINORZ
+CODE_SMELL
+rsquid:S2696"6Make the enclosing method "static" or remove this set.(ëæûÿÿÿÿÿ8¥÷¼Ã-HÑ7RCRITICALZ
+CODE_SMELL

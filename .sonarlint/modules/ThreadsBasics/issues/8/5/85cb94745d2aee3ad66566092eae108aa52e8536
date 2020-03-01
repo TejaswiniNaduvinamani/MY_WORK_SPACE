@@ -1,0 +1,33 @@
+
+Ç%squid:RedundantThrowsDeclarationCheck"yRemove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from method's body.(ÈğÖ¾8¹Â¹â-H‡8RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(¶êÉœûÿÿÿÿ8óÅç¸â-Hˆ8RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine3"<This block of commented-out lines of code should be removed.(¢±Øşÿÿÿÿ8Áüƒ¸â-H‰8RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(•î¹úÿÿÿÿÿ8Ş…š¹â-HŠ8RMAJORZ
+CODE_SMELL
+ksquid:S1854"7Remove this useless assignment to local variable "obj".(´ Õã8Ş…š¹â-H‹8RMAJORZ
+CODE_SMELL
+nsquid:S1854-"5Remove this useless assignment to local variable "i".(Îş¢Óûÿÿÿÿ8ÙŞ¦¶â-HŒ8RMAJORZ
+CODE_SMELL
+nsquid:S18541"5Remove this useless assignment to local variable "i".(Úš—­ıÿÿÿÿ8Àä§¶â-H8RMAJORZ
+CODE_SMELL
+¸squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”²¸›8°£…¸â-H8RCRITICALZ
+CODE_SMELL
+nsquid:S1161":Add the "@Override" annotation above this method signature(”²¸›8°£…¸â-H8RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÂÉÊ©8ÙŞ¦¶â-H8RMAJORZ
+CODE_SMELL
+\squid:S1481"(Remove this unused "obj" local variable.(´ Õã8Ş…š¹â-H‘8RMINORZ
+CODE_SMELL
+€$squid:AssignmentInSubExpressionCheck-".Extract the assignment out of this expression.(Îş¢Óûÿÿÿÿ8Áüƒ¸â-H’8RMAJORZ
+CODE_SMELL
+·%squid:RedundantThrowsDeclarationCheck"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.(”²¸›8ïş¸â-H“8RMINORZ
+CODE_SMELL
+½squid:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”—Àşÿÿÿÿ8ŒÀ¹â-H”8RCRITICALZ
+CODE_SMELL
+bsquid:S2440".Remove this instantiation of "ThreadVolatilr".(´ Õã8š¹Ôü€.H•8RMAJORZ
+CODE_SMELL

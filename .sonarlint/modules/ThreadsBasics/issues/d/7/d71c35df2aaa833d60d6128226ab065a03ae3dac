@@ -1,0 +1,22 @@
+
+isquid:S2209"5Change this instance-reference to a static reference.(•¹›”8ÿ˜¿Èà-H‘;RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(—¼Üğüÿÿÿÿ8ÿ˜¿Èà-H’;RMAJORZ
+CODE_SMELL
+‡squid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Êİ¶Å8âÍÇà-H“;RMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(£‚­üıÿÿÿÿ8ÆÌà-H”;RMAJORZ
+CODE_SMELL
+qsquid:S1854"8Remove this useless assignment to local variable "obj2".(Ïèÿàúÿÿÿÿ8±‘™Èà-H•;RMAJORZ
+CODE_SMELL
+Œsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ø¬Ó“üÿÿÿÿ8ÿ˜¿Èà-H–;RMINORZ
+CODE_SMELL
+bsquid:S1481")Remove this unused "obj2" local variable.(Ïèÿàúÿÿÿÿ8±‘™Èà-H—;RMINORZ
+CODE_SMELL
+isquid:S2209"5Change this instance-reference to a static reference.(¬‰ŸÒ8ÿ˜¿Èà-H˜;RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(šßâì8âÍÇà-H™;RMAJORZ
+CODE_SMELL

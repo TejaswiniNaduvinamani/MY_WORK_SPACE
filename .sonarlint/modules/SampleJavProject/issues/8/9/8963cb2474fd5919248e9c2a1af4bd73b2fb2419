@@ -1,0 +1,17 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(«¼ÛÌþÿÿÿÿ8à‘ËÃ¨-HÖ1RMAJORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ8Øü›¶Ø,H×1RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ù«“ý8à‘ËÃ¨-HØ1RMAJORZ
+CODE_SMELL
+q
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(›­¡Êþÿÿÿÿ8à‘ËÃ¨-HÙ1RMAJORZ
+CODE_SMELL
+xsquid:S3518"CMake sure this expression can't be zero before doing this division.(«¼ÛÌþÿÿÿÿ8Ý‡ÊæÝ,HÚ1RCRITICALZBUG
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇÑ×8Ý‡ÊæÝ,HÛ1RMAJORZ
+CODE_SMELL

@@ -1,0 +1,38 @@
+
+qsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8´‘İ©Ş-H’(RMINORZ
+CODE_SMELL
+lsquid:S3878"8Remove this array creation and simply pass the elements.(­Â‹8õÃĞ©Ş-H(RMINORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ñ¾Ç8…àÄ©Ş-HŠ(RMAJORZ
+CODE_SMELL
+\squid:S1172*"(Remove this unused method parameter "t".(ò¨¤Ã8Ì¿ÖüŞ-H†(RMAJORZ
+CODE_SMELL
+~squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(´Î8ü’ªŞ-H‡(RMAJORZ
+CODE_SMELL
+‡squid:S1602#"SRemove useless curly braces around statement and then remove useless return keyword(êà€Ó8“–§ıŞ-Hƒ(RMINORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(î¼ùš8Éß—ªŞ-Hˆ(RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ü©îÊşÿÿÿÿ8ìàÑ©Ş-H(RMAJORZ
+CODE_SMELL
+l
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Üñ«Í8¿ıªŞ-H(RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(³•Ãşÿÿÿÿ8Óöß©Ş-H‰(RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(òÅ‘ÿÿÿÿÿ8Åˆº©Ş-H‹(RMAJORZ
+CODE_SMELL
+l
+squid:S106$"9Replace this use of System.out or System.err by a logger.(È·‹8†£øÒë-H¡(RMAJORZ
+CODE_SMELL
+l
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ˆºŸ—8›è§ıŞ-H‚(RMAJORZ
+CODE_SMELL
+squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òë¥»şÿÿÿÿH…(RMINORZ
+CODE_SMELL
+hsquid:S1611%"/Remove the parentheses around the "i" parameter(™·—™ıÿÿÿÿ8“–§ıŞ-H„(RMINORZ
+CODE_SMELL

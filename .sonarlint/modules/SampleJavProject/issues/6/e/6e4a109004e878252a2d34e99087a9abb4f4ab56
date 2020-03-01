@@ -1,0 +1,9 @@
+
+hsquid:S2209
+"5Change this instance-reference to a static reference.(œÀ¡$8äñãçÒ,HáRMAJORZ
+CODE_SMELL
+¿%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ8¨–ÔçÒ,HàRMINORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(±­ìçÿÿÿÿÿ8Ü­žÿð,HãRMAJORZ
+CODE_SMELL

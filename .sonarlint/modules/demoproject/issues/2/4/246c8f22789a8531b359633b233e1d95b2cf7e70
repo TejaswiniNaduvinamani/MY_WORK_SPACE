@@ -1,0 +1,12 @@
+
+™squid:UselessImportCheck"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8ùº½¬Ğ,Hô,RMINORZ
+CODE_SMELL
+‚squid:UselessImportCheck"HRemove this unused import 'org.springframework.context.annotation.Lazy'.(İ·­æHõ,RMINORZ
+CODE_SMELL
+­squid:UselessImportCheck
+"nRemove this unused import 'org.springframework.web.servlet.config.annotation.DefaultServletHandlerConfigurer'.(Â…ú¹ÿÿÿÿÿHö,RMINORZ
+CODE_SMELL
+‰squid:UselessImportCheck"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›H÷,RMINORZ
+CODE_SMELL
+¦squid:UselessImportCheck	"eRemove this unused import 'org.springframework.context.annotation.CommonAnnotationBeanPostProcessor'.(İ™•”8ùº½¬Ğ,Hø,RMINORZ
+CODE_SMELL

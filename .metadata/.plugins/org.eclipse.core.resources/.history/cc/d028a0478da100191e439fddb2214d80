@@ -1,0 +1,27 @@
+package com.demo.sample;
+
+class Base { 
+     public void show() { 
+       System.out.println("Base::show() called"); 
+    } 
+} 
+   
+class Derived extends Base { 
+    public void show() { 
+       System.out.println("Derived::show() called"); 
+    } 
+    
+    public void show2() { 
+        System.out.println("Derived::show2() called"); 
+     } 
+} 
+
+public class InheritanceQuestion {
+	public static void main(String[] args) { 
+        Base b = new Derived();
+        Derived d = new Derived();
+        b.show(); 
+        d.show();
+//        b.show2();  -- compilation error
+    } 
+}

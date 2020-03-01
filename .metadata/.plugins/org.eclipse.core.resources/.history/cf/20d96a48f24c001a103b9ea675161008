@@ -1,0 +1,9 @@
+package com.org.syncronize;
+
+public class A {
+	static{
+		System.out.println("gsdjhg");
+		System.exit(0);
+	}
+
+}

@@ -1,0 +1,20 @@
+
+q
+squid:S1060"9Replace this use of System.out or System.err by a logger.(¨ÜÖÄùÿÿÿÿ8½íİêò-H¢9RMAJORZ
+CODE_SMELL
+psquid:S1854."7Remove this useless assignment to local variable "res".(‚õÆúÿÿÿÿ8îƒŞêò-H£9RMAJORZ
+CODE_SMELL
+squid:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(€à­¹8—Íïíá-H¤9RMINORZ
+CODE_SMELL
+_squid:S1172""+Remove this unused method parameter "task".(æÿ‡ã8ëÚêò-H¥9RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(·À…Õûÿÿÿÿ8îƒŞêò-H¦9RMAJORZ
+CODE_SMELL
+Ê%squid:RedundantThrowsDeclarationCheck*"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(àÜÕúÿÿÿÿÿ8îƒŞêò-H§9RMINORZ
+CODE_SMELL
+asquid:S1481."(Remove this unused "res" local variable.(‚õÆúÿÿÿÿ8îƒŞêò-H¨9RMINORZ
+CODE_SMELL
+Ô%squid:RedundantThrowsDeclarationCheck*"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(àÜÕúÿÿÿÿÿ8îƒŞêò-H©9RMINORZ
+CODE_SMELL
+`squid:S1948"$Make "resList" private or transient.(¤Ç—üÿÿÿÿ8—Íïíá-Hª9RCRITICALZ
+CODE_SMELL

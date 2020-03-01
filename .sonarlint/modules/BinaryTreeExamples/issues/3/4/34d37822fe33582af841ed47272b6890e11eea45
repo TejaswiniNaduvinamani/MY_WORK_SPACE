@@ -1,0 +1,17 @@
+
+Vsquid:S1659""Declare "prev" on a separate line.(¸Şî8Ôşš¹ô-Hë4RMINORZ
+CODE_SMELL
+Osquid:S36269"Remove this redundant jump.(ûÁİ…8Ôşš¹ô-Hì4RMINORZ
+CODE_SMELL
+‘
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(·Ã½şÿÿÿÿ8Ôşš¹ô-Hí4RMINORZ
+CODE_SMELL
+Wsquid:S1659"#Declare "right" on a separate line.(¸Şî8Ôşš¹ô-Hî4RMINORZ
+CODE_SMELL
+msquid:S26962"6Make the enclosing method "static" or remove this set.(òƒöÎ8Ôşš¹ô-Hï4RCRITICALZ
+CODE_SMELL
+Osquid:S3626."Remove this redundant jump.(ûÁİ…8Ôşš¹ô-Hğ4RMINORZ
+CODE_SMELL
+q
+squid:S106<"9Replace this use of System.out or System.err by a logger.(³ÎÎ‹ÿÿÿÿÿ8Ôşš¹ô-Hñ4RMAJORZ
+CODE_SMELL

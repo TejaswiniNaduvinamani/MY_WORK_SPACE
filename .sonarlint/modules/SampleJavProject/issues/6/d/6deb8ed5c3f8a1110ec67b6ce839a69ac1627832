@@ -1,0 +1,37 @@
+
+l
+squid:S106 "9Replace this use of System.out or System.err by a logger.(Ö…¾³8áÏÈÚÊ-Hğ#RMAJORZ
+CODE_SMELL
+l
+squid:S106""9Replace this use of System.out or System.err by a logger.(ö¡¹ê8áÏÈÚÊ-Hñ#RMAJORZ
+CODE_SMELL
+q
+squid:S106."9Replace this use of System.out or System.err by a logger.(º‚‰Œÿÿÿÿÿ8áÏÈÚÊ-Hò#RMAJORZ
+CODE_SMELL
+_squid:S14810"&Remove this unused "a" local variable.(­ßœîúÿÿÿÿ8áÏÈÚÊ-Hó#RMINORZ
+CODE_SMELL
+nsquid:S2209"5Change this instance-reference to a static reference.(É´“ıÿÿÿÿ8áÏÈÚÊ-Hô#RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ç‚ş©ÿÿÿÿÿ8²À¤ÚÊ-Hõ#RMAJORZ
+CODE_SMELL
+l
+squid:S106)"9Replace this use of System.out or System.err by a logger.(«‹Îõ8áÏÈÚÊ-Hö#RMAJORZ
+CODE_SMELL
+’squid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8áÏÈÚÊ-H÷#RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìÑÑÈÿÿÿÿÿ8²À¤ÚÊ-Hø#RMAJORZ
+CODE_SMELL
+l
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ô›µ’8áÏÈÚÊ-Hù#RMAJORZ
+CODE_SMELL
+Zsquid:S3010"!Remove this assignment of "name".(É´“ıÿÿÿÿ8áÏÈÚÊ-Hú#RMAJORZ
+CODE_SMELL
+nsquid:S18540"5Remove this useless assignment to local variable "a".(­ßœîúÿÿÿÿ8áÏÈÚÊ-Hû#RMAJORZ
+CODE_SMELL
+k
+squid:S106"9Replace this use of System.out or System.err by a logger.(€Ë²:8²À¤ÚÊ-Hü#RMAJORZ
+CODE_SMELL
+’squid:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8áÏÈÚÊ-Hı#RMAJORZ
+CODE_SMELL

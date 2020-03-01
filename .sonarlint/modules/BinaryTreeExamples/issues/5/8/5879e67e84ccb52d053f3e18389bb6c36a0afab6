@@ -1,0 +1,13 @@
+
+“squid:S3973&"WUse curly braces or indentation to denote the code conditionally executed by this "if".(ã¦’—þÿÿÿÿ8¥ß…ëú-HÅ5RCRITICALZ
+CODE_SMELL
+squid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(¢ãâ”8Ë¢’¥ú-HÆ5RMAJORZ
+CODE_SMELL
+q
+squid:S106="9Replace this use of System.out or System.err by a logger.(ÖÔÊêÿÿÿÿÿ8ç£«üù-HÇ5RMAJORZ
+CODE_SMELL
+q
+squid:S106?"9Replace this use of System.out or System.err by a logger.(ÖÔÊêÿÿÿÿÿ8Õñ‘¥ú-HÈ5RMAJORZ
+CODE_SMELL
+Wsquid:S1659"#Declare "right" on a separate line.(çùà¶8ŠÁƒüù-HÉ5RMINORZ
+CODE_SMELL

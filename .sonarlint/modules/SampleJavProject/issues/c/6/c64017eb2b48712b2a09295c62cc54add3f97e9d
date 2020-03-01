@@ -1,0 +1,14 @@
+
+asquid:S1481"(Remove this unused "arg" local variable.(ÇÕò¤øÿÿÿÿ8÷Áÿ™Ú,HË	RMINORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(ÇÕò¤øÿÿÿÿ8÷Áÿ™Ú,HÇ	RMINORZ
+CODE_SMELL
+qsquid:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ä¢û™Ú,HÌ	RMINORZ
+CODE_SMELL
+psquid:S1854"7Remove this useless assignment to local variable "arg".(ÇÕò¤øÿÿÿÿ8÷Áÿ™Ú,HÉ	RMAJORZ
+CODE_SMELL
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(½×Æµ8Éı™Ú,HÈ	RMAJORZ
+CODE_SMELL
+Gsquid:S1220""Move this file to a named package.HÊ	RMINORZ
+CODE_SMELL

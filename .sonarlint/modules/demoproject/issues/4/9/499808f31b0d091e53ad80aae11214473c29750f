@@ -1,0 +1,19 @@
+
+l
+squid:S106#"9Replace this use of System.out or System.err by a logger.(°ï•ü8Ò¼®«Ð,HœRMAJORZ
+CODE_SMELL
+€squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¼þàÌÿÿÿÿÿ8þÔ¨¬Ð,H´RMAJORZ
+CODE_SMELL
+“squid:UselessImportCheck"MRemove this unused import 'org.springframework.beans.factory.DisposableBean'.(¦ê«ªøÿÿÿÿ8þÔ¨¬Ð,H¶RMINORZ
+CODE_SMELL
+¿%squid:RedundantThrowsDeclarationCheck""lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Àø’ìúÿÿÿÿ8þÔ¨¬Ð,H²RMINORZ
+CODE_SMELL
+¿%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¼þàÌÿÿÿÿÿ8þÔ¨¬Ð,H³RMINORZ
+CODE_SMELL
+squid:UselessImportCheck"ORemove this unused import 'org.springframework.beans.factory.InitializingBean'.(åÑ¦œ8þÔ¨¬Ð,H·RMINORZ
+CODE_SMELL
+€squid:S00112""FDefine and throw a dedicated exception instead of using a generic one.(Àø’ìúÿÿÿÿ8þÔ¨¬Ð,HµRMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ç¿Åöÿÿÿÿÿ8â¯«Ð,HžRMAJORZ
+CODE_SMELL

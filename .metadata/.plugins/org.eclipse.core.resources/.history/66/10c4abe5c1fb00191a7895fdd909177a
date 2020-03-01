@@ -1,0 +1,69 @@
+package com.org.syncronize;
+
+import java.util.concurrent.TimeUnit;
+
+class Server implements Runnable{
+    private volatile Boolean exit = Boolean.FALSE;
+    
+    public void run() {
+//        while(!exit){
+//            System.out.println(Thread.currentThread().getId() + " Server is running.....");
+//        }
+    	
+    	 while(!Thread.currentThread().isInterrupted()){
+             System.out.println(Thread.currentThread().getId() + " Server is running.....");
+         }
+        
+        System.out.println(Thread.currentThread().getId() + " Server is stopped....");
+    }
+    
+    public void stop(){
+        exit = true;
+    }
+}
+public class ThreadStopDemo {
+
+
+    public static void main(String args[]) throws InterruptedException {
+        Server myServer = new Server();
+        Thread t1 = new Thread(myServer, "T1");
+        Thread t2 = new Thread(myServer, "T1");
+        t1.start();
+        
+        
+//        t2.start();
+        
+        //Now, let's stop our Server thread
+        System.out.println(Thread.currentThread().getName() + " is stopping Server thread");
+
+		Thread.sleep(5);
+//        myServer.stop();
+        t1.interrupt();
+//        Boolean  exit = Boolean.FALSE;
+//        
+//		Runnable r1 = () -> {
+//			while(!exit){
+//	            System.out.println(Thread.currentThread().getId() + " Server is running.....");
+//	        }
+//	        
+//	        System.out.println(Thread.currentThread().getId() + " Server is stopped....");
+//		};
+//		Runnable r2 = () -> {
+//			while(!exit){
+//	            System.out.println(Thread.currentThread().getId() + " Server is running.....");
+//	        }
+//	        
+//	        System.out.println(Thread.currentThread().getId() + " Server is stopped....");
+//		};
+//		Thread t3 = new Thread(r1);
+//		Thread t4 = new Thread(r2);
+//		t3.start();
+//		t4.start();
+		
+		
+        //Let's wait to see server thread stopped 
+        TimeUnit.MILLISECONDS.sleep(200);
+        
+        System.out.println(Thread.currentThread().getName() + " is finished now");
+    }
+}
